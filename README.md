@@ -1,6 +1,7 @@
 ---
 
 Example plain HTML website using GitLab with [Netlify](https://www.netlify.com/).
+hello afra
 
 ---
 
