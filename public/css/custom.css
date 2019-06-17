@@ -1,11 +1,32 @@
 .rightAlign {
-    text-align: right;
+  text-align: right;
 }
 
 .rightFloat {
-    float: right;
+  float: right;
+}
+
+.rightDirection {
+  direction: rtl;
 }
 
 ul.nav-menu.sf-js-enabled.sf-arrows li {
-    float: right;
+  float: right;
+}
+
+.faa {
+  padding: 20px;
+  font-size: 30px;
+  /* width: 30px; */
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+  background: #777;
+  color: white;
+}
+
+.faa:hover {
+  opacity: 0.7;
+  color: white;
 }
