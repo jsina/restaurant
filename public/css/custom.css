@@ -1,0 +1,11 @@
+.rightAlign {
+    text-align: right;
+}
+
+.rightFloat {
+    float: right;
+}
+
+ul.nav-menu.sf-js-enabled.sf-arrows li {
+    float: right;
+}
