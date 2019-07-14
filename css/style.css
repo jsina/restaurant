@@ -222,3 +222,7 @@ blockquote {
   direction: rtl;
   text-align: right;
 }
+
+.footer-social a {
+  padding-left: 20px;
+}
