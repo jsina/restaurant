@@ -226,3 +226,7 @@ blockquote {
 .footer-social a {
   padding-left: 20px;
 }
+
+.dir {
+  direction: rtl;
+}
