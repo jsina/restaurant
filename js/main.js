@@ -159,7 +159,8 @@ $(document).ready(function(){
         items:1,
         loop:true,
         margin:30,
-        dots: true
+        dots: true,
+        autoplay:true,
     });
 
         $('.active-testimonial').owlCarousel({
